@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace HelloWorld;
+namespace Vjardin\HelloWorld;
 
 class SayHello {
     public static function world(): string {
