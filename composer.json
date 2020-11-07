@@ -1,11 +1,19 @@
 {
     "name": "vjardin/chello",
-    "description": "Composer hello demo",
     "type": "library",
+    "description": "Composer hello demo",
+    "keywords": [
+        "composer",
+        "hello"
+    ],
     "authors": [
         { "name": "Vincent JARDIN", "email": "vjardin@free.fr" }
     ],
     "license": "MIT",
+    "support": {
+        "issues": "https://github.com/vjardin/chello/issues",
+        "source": "https://github.com/vjadin/chello"
+    },
     "require": {
         "php": ">=7.3"
     },
