@@ -1,0 +1,17 @@
+{
+    "name": "vjardin/chello",
+    "description": "Composer hello demo",
+    "type": "library",
+    "authors": [
+        { "name": "Vincent JARDIN", "email": "vjardin@free.fr" }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src/"
+        }
+    }
+}
